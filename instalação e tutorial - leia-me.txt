@@ -1,0 +1,11 @@
+salve familia :)
+
+basicamente funciona assim: você só vai mexer no scr/
+
+- para criar novas páginas: copie o head do index.html (nele tem os imports necessários para funcionar o bootstrap)
+- para alterar estilos: entre no main.scss, e lá escreva o que você quer alterar. tem um exemplo lá que muda a class primary 
+pra uma outra cor, pode seguir esse exemplo pras outras mudanças :)
+- NÃO MEXA NO MAIN.CSS E NO MAIN.CSS.MAP
+- NÃO MEXA NOS ARQUIVOS .JSON E NEM NA PASTA NODE_MODULES
+
+ps: se vc quiser mexer, não tem nada demais, só toma cuidado pra não excluir nada e acabar desconfigurando :)

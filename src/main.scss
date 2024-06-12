@@ -1,0 +1,18 @@
+// Option A: Include all of Bootstrap
+
+// Bootstrap variables
+$primary: #2f4867;
+$info: #336699;
+
+// Boostrap import
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+// custom css
+@font-face {
+    font-family: 'Inter';
+    src: url(fonts/Inter/Inter-VariableFont_slnt\,wght.ttf);
+}
+body {
+    background-color: #f8f9fa;
+    font-family: 'Inter';
+}
